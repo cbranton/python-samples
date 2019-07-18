@@ -1,2 +1,1 @@
-# python-samples
-Small programs and code samples suitable for school assignments or small projects
+﻿﻿# python-samplesSmall programs and code samples suitable for school assignments or small projects## text-adventureThis is a simple Python skeleton for developing a text-based adventure game. Suitable for an introductory level CS or game development class.
